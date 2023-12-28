@@ -1,3 +1,5 @@
+//A class is a user-defined data type that is an oop construct, and it is used to encapsulate the data and functions or tasks.
+//A class is a collection of data and a set of subroutines that operate on that data.
 class packet;
   ///class properties///
   bit a;
