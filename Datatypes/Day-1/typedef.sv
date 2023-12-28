@@ -1,3 +1,6 @@
+// A typedef allows users to create their own names for type definitions that they will use frequently in their code.
+// The same data can be written in multiple instances.
+
 module enumarated_typedef;
  typedef enum {naresh,gani,hari,varun,allen,lalith,raju} name;
  name n1,n2;
