@@ -1,3 +1,5 @@
+// A set of named values is defined by an enumerated type. One or more variables and a list of construct 
+// names make up this basic enumerated type declaration.
 module enumarated_data_type;
   enum {naresh,gani,hari,varun,allen,lalith,raju} name;
   initial begin
