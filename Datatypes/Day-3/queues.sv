@@ -1,3 +1,6 @@
+// Queue is a special data type in System Verilog which works on the principle of FIFO (First in First Out). 
+// Thus, the element which is stored first in the queue is retrieved first, just as the case in real-life queue.
+
 module queues_method;    
     int vlsi_2[$];
     int a,b;
