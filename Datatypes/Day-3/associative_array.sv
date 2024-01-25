@@ -1,5 +1,6 @@
-// Associative arrays support a flexible set of index types, including integer, string, enum, and packed/unpacked arrays, allowing you to 
-// use different data types as keys to access corresponding values.we cant delete single array size,associative array change the index data type
+/* Associative arrays support a flexible set of index types, including integer, string, enum, and 
+packed/unpacked arrays, allowing you to use different data types as keys to access corresponding 
+values.we cant delete single array size,associative array change the index data type */
 
 module associative_array;
   int a[string];
